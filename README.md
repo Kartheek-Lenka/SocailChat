@@ -1,5 +1,7 @@
 Social Chat Landing Page (Inspired by Facebook)
 
+Review my website: https://mysocialchat.netlify.app
+
 This project is a landing page designed to promote a social chat application similar to Facebook. It aims to showcase the app's features and functionalities.
 
 Features:
